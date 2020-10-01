@@ -5,10 +5,11 @@
 ### Use Cases
 
 - Register a new account
-- Log in with existing account
+- Log/Out in with existing account
 - Look through catalog
 - Purchase a product/service
 - Offer a product/service for sale
+- Edit and Delete my account
 
 
 
@@ -28,7 +29,7 @@ As a User I want to be able to reset my password because I'm very forgettable.
 
 As a User I want to be confronted with a nice and trustworthy looking page so I feel comfortable.
 
-
+As a User I want to be able to delete my account in case I don't need it anymore.
 
 **Corresponding to nonfunctional requirements**
 
@@ -37,4 +38,6 @@ As a User I want my password to stay secure so noone else can use my account.
 As a User I want to be able to quickly log in to not waste time.
 
 As a User I don't want to be bombarded with unnecessary advertisement because my mailbox is already full.
+
+As a User I wan't my informations to be safely stored (encrypted).
 
